@@ -1,0 +1,1 @@
+const thankYouPopup = document.querySelector('#thank-you-popup'); const closeThankYou = () => { if (thankYouPopup) thankYouPopup.hidden = true }; document.querySelector('.thank-you-close')?.addEventListener('click', closeThankYou); document.querySelector('.thank-you-back')?.addEventListener('click', closeThankYou);
