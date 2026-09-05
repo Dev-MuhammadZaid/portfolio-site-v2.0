@@ -10,13 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-site-v2-0.vercel.app/">
+  <a href="https://dev-muhammadzaid.github.io/portfolio-site-v2.0/">
     <strong>🚀 View Live Portfolio</strong>
   </a>
   &nbsp;•&nbsp;
-  <a href="https://dev-muhammadzaid.github.io/portfolio-site-v2.0/">
-    <strong>View Source Code</strong>
-  </a>
 </p>
 
 ---
