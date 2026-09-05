@@ -14,7 +14,7 @@
     <strong>🚀 View Live Portfolio</strong>
   </a>
   &nbsp;•&nbsp;
-  <a href="https://github.com/Dev-MuhammadZaid/portfolio-site-v2.0">
+  <a href="https://dev-muhammadzaid.github.io/portfolio-site-v2.0/">
     <strong>View Source Code</strong>
   </a>
 </p>
