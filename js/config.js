@@ -1,6 +1,6 @@
 /* Change your domain + social links here only. */
 const SITE = {
-  domain: "https://your-domain.com",
+  domain: "https://portfolio-site-v2-0.vercel.app",
   name: "Muhammad Zaid",
   email: "mziad2347@gmail.com",
   github: "https://github.com/Dev-MuhammadZaid",

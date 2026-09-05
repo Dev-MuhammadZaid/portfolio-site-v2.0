@@ -1,99 +1,187 @@
-# Muhammad Zaid — Portfolio Website V2
+# Muhammad Zaid — Frontend Developer Portfolio
 
 <p align="center">
-  <strong>Modern Frontend Developer Portfolio</strong>
+  <strong>Modern Frontend Developer Portfolio V2</strong>
 </p>
 
 <p align="center">
-  A responsive, modern, and accessible portfolio website built with
-  <strong>HTML, CSS, and JavaScript</strong>.
+  A responsive, accessible, and modern portfolio website built with
+  <strong>HTML, CSS, and Vanilla JavaScript</strong>.
 </p>
-
-<p align="center">
-  <a href="https://portfolio-site-v2-0.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel" alt="Live Demo">
-  </a>
-  <a href="https://github.com/Dev-MuhammadZaid/portfolio-site-v2.0">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
-  </a>
-</p>
-
----
-
-## 📌 About The Project
-
-This is the second version of my personal developer portfolio website.
-
-The goal of this project was not only to create a visually modern portfolio, but also to build a website with a clean structure, reusable JavaScript logic, responsive layouts, maintainable CSS, proper metadata, and a better overall user experience.
-
-The portfolio presents my frontend development skills, selected projects, services, learning journey, and ways to get in touch.
-
-The project was developed using vanilla web technologies without relying on a frontend framework.
-
----
-
-## 🌐 Live Website
 
 <p align="center">
   <a href="https://portfolio-site-v2-0.vercel.app/">
     <strong>🚀 View Live Portfolio</strong>
   </a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/Dev-MuhammadZaid/portfolio-site-v2.0">
+    <strong>View Source Code</strong>
+  </a>
 </p>
 
 ---
 
-## ✨ Features
+## Preview
 
-### 🎨 Modern UI
+<p align="center">
+  <a href="https://portfolio-site-v2-0.vercel.app/">
+    <img
+      src="https://portfolio-site-v2-0.vercel.app/assets/images/og-image.webp"
+      alt="Muhammad Zaid Portfolio Preview"
+      width="900"
+    >
+  </a>
+</p>
 
-- Clean and modern portfolio interface
-- Dark-themed visual design
-- Consistent typography and spacing
-- Reusable UI patterns
-- Interactive navigation
-- Smooth visual transitions
-- Project-focused presentation
+<p align="center">
+  <em>
+    Portfolio preview image used for Open Graph and social sharing.
+  </em>
+</p>
 
-### 📱 Responsive Design
+---
 
-The website is designed to work across different screen sizes:
+## About The Project
 
-- 📱 Mobile devices
-- 📲 Tablets
-- 💻 Laptops
-- 🖥️ Desktop screens
-- 🖥️ Large displays
+This is the second version of my personal frontend developer portfolio.
 
-The layout adapts using responsive CSS techniques rather than creating separate websites for different devices.
+The main purpose of this project is to present my frontend development skills, selected projects, services, learning journey, and contact information in a clean and professional way.
 
-### 🧭 Multiple Pages
+The website was built from scratch using native web technologies without a frontend framework.
 
-The portfolio includes dedicated pages for different sections of the website:
+The project focuses on:
 
-- Home
-- About
-- Projects
-- Individual Project Details
+- Clean HTML structure
+- Maintainable CSS
+- Vanilla JavaScript
+- Responsive design
+- Reusable JavaScript logic
+- Dynamic project details
+- Accessibility
+- SEO metadata
+- Open Graph metadata
+- Organized project structure
+- Modern user interface
+- Performance-conscious development
+- Mobile-friendly layouts
+
+---
+
+## Live Website
+
+<p align="center">
+  <a href="https://portfolio-site-v2-0.vercel.app/">
+    <strong>🚀 Open Muhammad Zaid Portfolio</strong>
+  </a>
+</p>
+
+The production version of the portfolio is deployed on Vercel.
+
+---
+
+## Technology Stack
+
+### HTML
+
+HTML is used to build the semantic structure of the website.
+
+The project uses HTML for:
+
+- Page structure
+- Navigation
+- Sections
+- Forms
+- Project content
+- Metadata
+- SEO information
+- Open Graph metadata
+- Accessible markup
+
+### CSS
+
+CSS is responsible for the visual design and responsive layout.
+
+The project includes:
+
+- Custom layouts
+- Flexbox
+- Grid
+- CSS variables
+- Responsive design
+- Dark theme styling
+- Transitions
+- Animations
+- Component styling
+- Mobile layouts
+- Desktop layouts
+
+### JavaScript
+
+Vanilla JavaScript is used for the interactive functionality of the website.
+
+JavaScript handles:
+
+- DOM manipulation
+- Event handling
+- Navigation behavior
+- Theme switching
+- Project filtering
+- Dynamic project details
+- URL query parameters
+- Reusable layout logic
+- Interactive UI behavior
+
+No frontend framework such as React, Vue, or Angular is required.
+
+---
+
+# Website Pages
+
+The portfolio contains multiple dedicated pages.
+
+## Home
+
+The homepage introduces the developer and provides quick access to the main portfolio sections.
+
+Main areas include:
+
+- Hero section
+- Introduction
 - Skills
+- Selected projects
 - Services
-- Journey
-- Contact
-- 404 Not Found
+- Development information
+- Contact call-to-action
+- Footer
 
-### 💼 Projects Section
+---
 
-The projects section provides an organized way to showcase frontend projects.
+## About
 
-Projects can include:
+The About page provides more information about the developer, background, development interests, and frontend-focused journey.
 
-- Project title
-- Description
-- Technologies used
-- Preview
-- Source code
-- Project-specific details
+---
 
-The individual project page uses URL parameters to load project-specific information dynamically.
+## Projects
+
+The Projects page contains selected frontend projects.
+
+Projects can be explored through:
+
+- Project cards
+- Project categories
+- Project filtering
+- Project links
+- Source code links
+- Individual project details
+
+---
+
+## Individual Project Details
+
+The project details page dynamically displays information about a selected project.
+
+The page uses URL query parameters.
 
 Example:
 
