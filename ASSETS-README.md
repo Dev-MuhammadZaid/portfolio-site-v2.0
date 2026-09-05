@@ -12,8 +12,6 @@ Use the six SVGs in `assets/icons/`: html.svg, css.svg, js.svg, responsive.svg, 
 ## Development photos
 Use `assets/images/development/development-1.jpg` through `development-5.jpg`. They are already placed as large responsive visuals across five pages.
 
-## Thank-you popup
-`components/thank-you-popup.html`, `.css`, and `.js` provide the form-success popup. `js/contact.js` opens it after valid submission. It includes Close and Back buttons.
 
 ## Existing project
 If you are adding these to another copy, copy the `assets/` and `components/` folders, then add the popup CSS/JS and submit logic from `contact.js`.
